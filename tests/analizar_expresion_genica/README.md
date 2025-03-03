@@ -8,3 +8,5 @@ deg = analizar_expresion_genica(archivo_preprocesado, rango_condicion, rango_con
 ```
 Teniendo en cuenta la documentación en la sección docs, tendremos como salida dos plots, uno con el PCA y otro con el Volcano Plot. 
 Así como se muestra en los archivos adjuntos en esta carpeta.
+
+![Análisis PCA]([https://ejemplo.com/imagen.png](https://github.com/serabe91/RnaSeqAnalysis/blob/b2619967c5efb007bf9828bf5d0b9e57dce9c2b7/tests/analizar_expresion_genica/PCA_ex.png))
