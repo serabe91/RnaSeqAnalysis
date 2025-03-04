@@ -6,13 +6,13 @@
 
 ## 📑 Funciones incluidas
 
-###  analizar_expresion_genica
+### - analizar_expresion_genica
 
-###  clasificar_condicion
+### -  clasificar_condicion
 
-###  predecir_nuevas_muestras
+### - predecir_nuevas_muestras
 
-### 4️⃣ procesar_datos
+### - procesar_datos
 
 ## 💡 Notas adicionales
 
