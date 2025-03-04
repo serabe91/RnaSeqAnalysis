@@ -1,4 +1,4 @@
-# RnaSeqAnalysis
+# RnaSeqAnalysis --> `RSA`
 # 🧬 Entrega Final - Fundamentos de Programación para Ciencias Biológicas
 
 Este repositorio corresponde a la entrega final de la materia **Fundamentos de Programación para Ciencias Biológicas**, donde se desarrolló un paquete en Python denominado **RnaSeqAnalysis**. Este paquete está diseñado para facilitar el análisis de datos transcriptómicos obtenidos mediante secuenciación de ARN (RNA-Seq).
