@@ -62,4 +62,27 @@ weighted avg       0.71      0.71      0.71         7
 4530  220213     0.039448
 2569    8507     0.039257
 ```
+- Si se usa el modelo KNN, se obtendrán la salida adjunta en esta carpeta nombrada como: "ConfKNN_ex" y la siguiente información en consola:
+```sh
 
+Dataset: 34 muestras
+ Train: 27, Test: 7
+
+ Distribución de clases:
+Train: {1: 0.6296296296296297, 0: 0.37037037037037035}
+Test: {1: 0.5714285714285714, 0: 0.42857142857142855}
+
+ Accuracy en entrenamiento: 0.7407
+ Accuracy en prueba: 0.4286
+
+ Reporte de clasificación:
+              precision    recall  f1-score   support
+
+           0       0.33      0.33      0.33         3
+           1       0.50      0.50      0.50         4
+
+    accuracy                           0.43         7
+   macro avg       0.42      0.42      0.42         7
+weighted avg       0.43      0.43      0.43         7
+
+```
