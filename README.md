@@ -3,6 +3,17 @@
 
 Este repositorio corresponde a la entrega final de la materia **Fundamentos de Programación para Ciencias Biológicas**, donde se desarrolló un paquete en Python denominado **RnaSeqAnalysis**. Este paquete está diseñado para facilitar el análisis de datos transcriptómicos obtenidos mediante secuenciación de ARN (RNA-Seq).
 
+## 📂 Contexto del problema:
+
+Este proyecto surge a partir de la siguiente pregunta: ¿Es posible clasificar los casos de caquexia asociada al cáncer de
+páncreas utilizando los genes diferencialmente expresados en tejido adiposo? Esta pregunta está inspirada en el artículo
+científico https://doi.org/10.3390/cancers13081975.
+Nuestro objetivo es desarrollar un paquete en Python que proporcione herramientas para la clasificación de muestras
+biológicas con base en datos transcriptómicos obtenidos mediante RNA-seq. Específicamente, buscamos implementar un
+flujo de trabajo que permita evaluar si una muestra presenta una condición biológica determinada a partir de genes
+diferencialmente expresados. Para ello, el paquete integra diversos análisis y métodos de clasificación, facilitando su
+aplicación en distintos contextos de investigación.
+
 ## 📂 Estructura del repositorio
 
 El repositorio está organizado en las siguientes carpetas:
