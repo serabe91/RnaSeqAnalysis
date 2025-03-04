@@ -14,7 +14,7 @@ flujo de trabajo que permita evaluar si una muestra presenta una condición biol
 diferencialmente expresados. Para ello, el paquete integra diversos análisis y métodos de clasificación, facilitando su
 aplicación en distintos contextos de investigación.
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
 
 El repositorio está organizado en las siguientes carpetas:
 
